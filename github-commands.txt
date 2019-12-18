@@ -16,9 +16,11 @@
 5.- git checkout -- filename: to rollback the changes
 6.- git diff filename: to see the diference betwen the old file and the new file
 7.- git log: to see the all commits
-
+8.- 
 ____________________________________________
 
 [CONFIG COMMANDS]
 - git config --global user.email "FernandoDefez99@gmail.com"
 - git config --global user.name "Fernando"
+
+.gitignore: inside of it. It must be the files that you want to ignore.
