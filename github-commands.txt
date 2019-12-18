@@ -12,8 +12,10 @@
 1.- git init: to initialize - WORKING DIRECTORY -
 2.- git status: to see our files who are not in the - STAGING AREA -
 3.- git add -filename-: to add the file to the - STAGING AREA -
-4.- git commit: 
+4.- git commit -m <message or comment>: to save the changes that are in the - STAGING AREA -
 5.- git checkout -- filename: to rollback the changes
+6.- git diff filename: to see the diference betwen the old file and the new file
+7.- git log: to see the all commits
 
 ____________________________________________
 
