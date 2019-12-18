@@ -1,0 +1,22 @@
+----------------- GITHUB -------------------
+
+*** Navigation Commands **
+
+    pwd: show the directory
+    cd: get access
+    ls:shows all files
+    dir: like "ls"
+
+*** Basic Commands ***
+
+1.- git init: to initialize - WORKING DIRECTORY -
+2.- git status: to see our files who are not in the - STAGING AREA -
+3.- git add -filename-: to add the file to the - STAGING AREA -
+4.- git commit: 
+5.- git checkout -- filename: to rollback the changes
+
+____________________________________________
+
+[CONFIG COMMANDS]
+- git config --global user.email "FernandoDefez99@gmail.com"
+- git config --global user.name "Fernando"
